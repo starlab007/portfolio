@@ -1,0 +1,9 @@
+
+@import "tailwindcss";
+
+@layer utilities {
+ .text-neon { color: #39FF14; }
+  .bg-neon { background-color: #39FF14; }
+  .bg-neon-20 { background-color: rgba(57,255,20,0.12); } /* use .bg-neon-20 in JSX */
+}
+
