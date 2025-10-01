@@ -1,16 +1,33 @@
-# React + Vite
+# Adrees Ahmad - Frontend Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A **modern, professional portfolio website** built with **React.js**, **Tailwind CSS**, and **Framer Motion**. Showcases my skills, projects, and contact information with a **neon green glow theme** and smooth animations.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- **Hero Section** with typed text effect and glowing background.  
+- **Navbar** with smooth scrolling and neon hover effects.  
+- **Skills Section** with animated skill cards and neon glow.  
+- **Projects Section** showcasing portfolio projects in a responsive grid.  
+- **About Section** with personal introduction and glowing accents.  
+- **Contact Section** with a professional form and neon input effects.  
+- **Footer** with social icons (GitHub, LinkedIn, Twitter) and neon hover glow.  
+- Fully **responsive** and works on mobile, tablet, and desktop.  
+- Smooth **scrolling** between sections using CSS `scroll-behavior`.  
+- Built with **React.js**, **Tailwind CSS**, **Framer Motion**, and **React Typed**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 Technologies Used
+
+- [React.js](https://reactjs.org/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [Framer Motion](https://www.framer.com/motion/)  
+- [React Typed](https://www.npmjs.com/package/react-typed)  
+- [React Icons](https://react-icons.github.io/react-icons/)  
+
+---
+
